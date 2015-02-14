@@ -1,0 +1,109 @@
+2014-11-22 00:03:17,287 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 00:04:13,530 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:04:18,563 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:37836/
+异常信息:未找到视图“I”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Views/H/I.aspx
+~/Views/H/I.ascx
+~/Views/Shared/I.aspx
+~/Views/Shared/I.ascx
+~/Views/H/I.cshtml
+~/Views/H/I.vbhtml
+~/Views/Shared/I.cshtml
+~/Views/Shared/I.vbhtml
+2014-11-22 00:18:25,296 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 00:19:22,767 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:19:23,767 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:37836/
+异常信息:未找到视图“I”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Views/H/I.aspx
+~/Views/H/I.ascx
+~/Views/Shared/I.aspx
+~/Views/Shared/I.ascx
+~/Views/H/I.cshtml
+~/Views/H/I.vbhtml
+~/Views/Shared/I.cshtml
+~/Views/Shared/I.vbhtml
+2014-11-22 00:19:34,807 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:19:34,903 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:37836/h/i
+异常信息:未找到视图“i”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Views/h/i.aspx
+~/Views/h/i.ascx
+~/Views/Shared/i.aspx
+~/Views/Shared/i.ascx
+~/Views/h/i.cshtml
+~/Views/h/i.vbhtml
+~/Views/Shared/i.cshtml
+~/Views/Shared/i.vbhtml
+2014-11-22 00:20:34,394 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 00:21:28,556 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:21:29,269 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:27836/
+异常信息:未找到视图“I”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Views/H/I.aspx
+~/Views/H/I.ascx
+~/Views/Shared/I.aspx
+~/Views/Shared/I.ascx
+~/Views/H/I.cshtml
+~/Views/H/I.vbhtml
+~/Views/Shared/I.cshtml
+~/Views/Shared/I.vbhtml
+2014-11-22 00:22:56,896 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 00:23:50,565 [21](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:24:57,730 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - youhong@hoho18.net发送邮件
+2014-11-22 00:24:58,349 [21](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:27836/Home/ActiveAccountEmail
+异常信息:未找到路径“/Home/ActiveAccountEmail”的控制器或该控制器未实现 IController。
+2014-11-22 00:25:01,392 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:27836/Account/AjaxLogin?returnUrl=/Home/I
+异常信息:远程服务器返回错误: (404) 未找到。
+2014-11-22 00:27:53,104 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 00:31:12,287 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 00:32:07,858 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:32:50,981 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:32:53,449 [21](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:32:54,797 [21](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:33:05,904 [20](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 00:33:26,148 [20](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - youhong@hoho18.net发送邮件
+2014-11-22 01:42:57,760 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 01:43:58,605 [10](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 01:43:58,854 [10](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-11-22 01:44:53,483 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - {订单号}|{卡密}|{买家名}|{宝贝名称}|
+2014-11-22 01:46:11,736 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 卡密验证失败
+2014-11-22 01:48:35,041 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 01:49:32,296 [21](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 01:49:32,747 [21](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-11-22 01:50:15,409 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - {订单号}|{卡密}|{买家名}|{宝贝名称}|
+2014-11-22 01:50:22,076 [22](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 卡密验证失败
+2014-11-22 01:58:30,766 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 01:59:42,009 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 01:59:42,237 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-11-22 02:01:05,029 [25](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - {订单号}|{卡密}|{买家名}|{宝贝名称}|{数量}
+2014-11-22 02:01:07,834 [25](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 卡密验证成功
+2014-11-22 02:01:09,609 [25](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:27836/KrniMxwai/S?OrderNum={订单号}&KaMe={卡密}&Buyer={买家名}&GoodsName={宝贝名称}&GoodsNum={数量}
+异常信息:服务器无法在发送 HTTP 标头之后设置内容类型。
+2014-11-22 02:01:37,861 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - zsfyou@qq.com登录
+2014-11-22 02:01:40,021 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:27836/home/index
+异常信息:未找到路径“/home/index”的控制器或该控制器未实现 IController。
+2014-11-22 02:05:02,385 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 02:05:57,506 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 02:05:57,584 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-11-22 02:06:39,593 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - {订单号}|{卡密}|{买家名}|{宝贝名称}|{数量}
+2014-11-22 02:06:41,404 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 卡密验证成功
+2014-11-22 22:15:14,099 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-22 22:16:14,233 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 22:16:14,438 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-11-22 22:55:57,853 [42](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - youhong@bungma.com登录
+2014-11-22 22:55:59,956 [46](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-22 22:55:59,958 [46](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836

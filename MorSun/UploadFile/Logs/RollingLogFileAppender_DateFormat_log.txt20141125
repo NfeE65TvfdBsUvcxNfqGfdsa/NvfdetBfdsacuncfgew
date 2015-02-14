@@ -1,0 +1,9 @@
+2014-11-25 07:46:23,205 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:106) INFO  System.Object [(null)] - 应用开启
+2014-11-25 07:47:44,114 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:106) INFO  System.Object [(null)] - 应用开启后开启任务调度器
+2014-11-25 07:47:47,265 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:103) DEBUG System.Object [(null)] - 跳转URL
+2014-11-25 07:47:47,827 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:106) INFO  System.Object [(null)] - http://localhost:168
+2014-11-25 07:49:50,942 [25](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:106) INFO  System.Object [(null)] - youhong@bungma.com被::1恶意登录
+2014-11-25 07:50:23,765 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:103) DEBUG System.Object [(null)] - 跳转URL
+2014-11-25 07:50:23,765 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:106) INFO  System.Object [(null)] - http://localhost:168
+2014-11-25 08:01:32,200 [40](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:106) INFO  System.Object [(null)] - 应用关闭
+2014-11-25 08:01:37,488 [40](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:106) INFO  System.Object [(null)] - 应用关闭前访问http://www.bungma.com

@@ -1,0 +1,59 @@
+2014-12-21 20:23:06,500 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-12-21 20:23:19,392 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启后开启任务调度器
+2014-12-21 20:23:23,676 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-21 20:23:24,309 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-21 20:23:34,548 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/
+异常信息:基础提供程序在 Open 上失败。
+2014-12-21 20:24:07,274 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/q/q
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/q/q
+异常信息:未找到路径“/q/q”的控制器或该控制器未实现 IController。
+2014-12-21 20:24:33,169 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-21 20:24:33,171 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-21 20:24:42,286 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/
+异常信息:基础提供程序在 Open 上失败。
+2014-12-21 20:24:47,303 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-21 20:24:47,305 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-21 20:24:53,543 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/
+异常信息:基础提供程序在 Open 上失败。
+2014-12-21 20:25:05,261 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-21 20:25:05,265 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-21 20:26:20,001 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-12-21 20:26:21,396 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启后开启任务调度器
+2014-12-21 20:26:21,570 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-21 20:26:21,647 [8](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-21 20:27:02,894 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-21 20:27:02,896 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-21 20:27:08,727 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/Member/I
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/Member/I
+异常信息:d:\NET\晨曦项目\20140621\App\UC\MorSun\Views\Member\I.cshtml(8): error CS0103: 当前上下文中不存在名称“Cookie_login”
+2014-12-21 20:27:54,002 [9](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/Member/I
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/Member/I
+异常信息:d:\NET\晨曦项目\20140621\App\UC\MorSun\Views\Member\I.cshtml(8): error CS0103: 当前上下文中不存在名称“Cookie_login”
+2014-12-21 20:37:50,256 [31](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/Member/I
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/Member/I
+异常信息:在 "@" 字符后面遇到了空格或换行符。只有有效的标识符、关键字、注释、"(" 和 "{" 在代码块开头才有效，并且它们必须紧跟在 "@" 后面，中间没有空格。
+

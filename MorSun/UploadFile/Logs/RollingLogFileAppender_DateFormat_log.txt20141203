@@ -1,0 +1,4 @@
+2014-12-03 00:04:29,240 [37](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用关闭
+2014-12-03 00:04:34,246 [37](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用关闭前访问http://www.bungma.com
+2014-12-03 00:04:34,690 [37](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 释放资源
+2014-12-03 00:04:34,693 [37](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 不关闭任务调度器时重新访问系统结束

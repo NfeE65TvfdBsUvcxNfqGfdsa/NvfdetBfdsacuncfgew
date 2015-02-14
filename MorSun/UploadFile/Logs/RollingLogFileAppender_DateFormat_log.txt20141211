@@ -1,0 +1,6 @@
+2014-12-11 00:42:48,364 [1](:0) INFO  System.Object [(null)] - 应用开启
+2014-12-11 00:43:46,868 [1](:0) INFO  System.Object [(null)] - 应用开启后开启任务调度器
+2014-12-11 19:25:20,604 [32](:0) INFO  System.Object [(null)] - 应用关闭
+2014-12-11 19:25:28,226 [32](:0) INFO  System.Object [(null)] - 应用关闭前访问http://www.bungma.com
+2014-12-11 19:25:33,610 [32](:0) INFO  System.Object [(null)] - 释放资源
+2014-12-11 19:25:33,645 [32](:0) INFO  System.Object [(null)] - 不关闭任务调度器时重新访问系统结束

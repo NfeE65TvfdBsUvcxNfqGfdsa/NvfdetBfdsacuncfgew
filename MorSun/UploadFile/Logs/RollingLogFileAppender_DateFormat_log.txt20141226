@@ -1,0 +1,13 @@
+2014-12-26 00:06:45,430 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-12-26 00:06:52,144 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启后开启任务调度器
+2014-12-26 00:06:53,988 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-26 00:06:54,366 [7](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-26 00:08:21,838 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-26 00:08:21,840 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-26 00:08:58,920 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - /qa/q/4d12cf3e-f978-4e01-8ff5-82218ca347fc
+2014-12-26 00:14:24,500 [31](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - /qa/q/4d12cf3e-f978-4e01-8ff5-82218ca347fc
+2014-12-26 00:19:27,836 [37](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - /qa/q/4d12cf3e-f978-4e01-8ff5-82218ca347fc
+2014-12-26 00:20:20,525 [37](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - /qa/q/4d12cf3e-f978-4e01-8ff5-82218ca347fc
+2014-12-26 00:20:51,848 [29](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - /qa/q/4d12cf3e-f978-4e01-8ff5-82218ca347fc
+2014-12-26 00:22:20,618 [45](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - /qa/q/4d12cf3e-f978-4e01-8ff5-82218ca347fc
+2014-12-26 00:36:47,267 [69](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - /qa/q/4d12cf3e-f978-4e01-8ff5-82218ca347fc

@@ -1,0 +1,14 @@
+2014-11-21 23:46:16,834 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-11-21 23:47:14,954 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-11-21 23:47:16,956 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+错误地址:http://localhost:37836/
+异常信息:未找到视图“I”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Views/H/I.aspx
+~/Views/H/I.ascx
+~/Views/Shared/I.aspx
+~/Views/Shared/I.ascx
+~/Views/H/I.cshtml
+~/Views/H/I.vbhtml
+~/Views/Shared/I.cshtml
+~/Views/Shared/I.vbhtml

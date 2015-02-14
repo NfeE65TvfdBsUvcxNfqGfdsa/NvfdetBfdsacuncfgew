@@ -1,0 +1,16 @@
+2014-12-06 21:53:46,991 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启
+2014-12-06 21:54:47,488 [1](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - 应用开启后开启任务调度器
+2014-12-06 21:54:49,690 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:102) DEBUG System.Object [(null)] - 跳转URL
+2014-12-06 21:54:50,070 [24](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:105) INFO  System.Object [(null)] - http://localhost:27836
+2014-12-06 21:55:42,626 [23](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/q/q
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/q/q
+异常信息:未找到路径“/q/q”的控制器或该控制器未实现 IController。
+2014-12-06 21:56:26,425 [25](d:\NET\晨曦项目\20140621\App\UC\HOHO18.Common\WEB\LogHelper.cs:111) ERROR System.Object [(null)] - 
+客户机IP:::1
+原始URL:/q/q
+浏览器:System.Web.Mobile.MobileCapabilities
+错误地址:http://localhost:27836/q/q
+异常信息:未找到路径“/q/q”的控制器或该控制器未实现 IController。
