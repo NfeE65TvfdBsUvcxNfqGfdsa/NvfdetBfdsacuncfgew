@@ -83,41 +83,16 @@
     <Compile Include="Base\ExportExcel.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ControllersSystem\VUe4jE4WeNQvf2njw4Iiq33nv6n2djkaController.cs" />
     <Compile Include="ControllersSystem\SYSConfigController.cs" />
-    <Compile Include="ControllersSystem\MMController.cs" />
     <Compile Include="ControllersUserCenter\CSController.cs" />
-    <Compile Include="ControllersUserCenter\KMController.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="ControllersUserCenter\KrniMxwaiController.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="ControllersWeiXin\QAController.cs" />
     <Compile Include="ControllersWeiXin\WXNetBungController.cs" />
     <Compile Include="Filter\ExceptionFilter.cs" />
     <Compile Include="Filter\PrivilegeAttribute.cs" />
     <Compile Include="ModelBinder\SmartModelBinder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ControllersBM\BMNewController.cs" />
-    <Compile Include="ControllersSystem\NavigationLinkController.cs" />
-    <Compile Include="ControllersSystem\OperationController.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="ControllersSystem\PrivilegeController.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="ControllersSystem\ReferenceController.cs" />
-    <Compile Include="ControllersSystem\RefGroupController.cs" />
-    <Compile Include="ControllersSystem\ResourceController.cs" />
-    <Compile Include="ControllersSystem\RoleController.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="ControllersUserCenter\AccountController.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ControllersUserCenter\NController.cs" />
-    <Compile Include="ControllersUserCenter\MemberController.cs" />
     <Compile Include="ControllersUserCenter\HController.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -127,29 +102,15 @@
     <Compile Include="Quartz\CheckingIn4\CheckingTriggerNetBung4.cs" />
     <Compile Include="Quartz\MorSunScheduler.cs" />
     <Compile Include="ViewModel\BaseVM\BaseVModel.cs" />
-    <Compile Include="ViewModel\BM\BMNewVModel.cs" />
-    <Compile Include="ViewModel\BM\BMQAViewVModel.cs" />
-    <Compile Include="ViewModel\BM\BMQAVModel.cs" />
-    <Compile Include="ViewModel\BM\BMSellKaMeVModel.cs" />
-    <Compile Include="ViewModel\PCTD\CityVModel.cs" />
-    <Compile Include="ViewModel\PCTD\CountyVModel.cs" />
-    <Compile Include="ViewModel\Dept\DeptVModel.cs" />
     <Compile Include="ViewModel\Common\EmailVModel.cs" />
-    <Compile Include="ViewModel\KQVM\KRVModel.cs" />
     <Compile Include="ViewModel\Common\NavigationLinkVModel.cs" />
     <Compile Include="ViewModel\Common\OperationalLogbookVModel.cs" />
     <Compile Include="ViewModel\Privilege\OperationVModel.cs" />
-    <Compile Include="ViewModel\Dept\PositionVModel.cs" />
     <Compile Include="ViewModel\Privilege\PrivilegeVModel.cs" />
-    <Compile Include="ViewModel\PCTD\ProvinceVModel.cs" />
     <Compile Include="ViewModel\REF\ReferenceVModel.cs" />
     <Compile Include="ViewModel\REF\RefGroupVModel.cs" />
     <Compile Include="ViewModel\Privilege\ResourceVModel.cs" />
     <Compile Include="ViewModel\Privilege\RoleVModel.cs" />
-    <Compile Include="ViewModel\Dept\UserVModel.cs" />
-    <Compile Include="ViewModel\Dept\wmfPersonnelToVModel.cs" />
-    <Compile Include="ViewModel\Dept\wmfUserDeptPositionVModel.cs" />
-    <Compile Include="ViewModel\Dept\wmfUserInfoVModel.cs" />
     <Compile Include="WebServices\DynamicWebServices.cs" />
   </ItemGroup>
   <ItemGroup>

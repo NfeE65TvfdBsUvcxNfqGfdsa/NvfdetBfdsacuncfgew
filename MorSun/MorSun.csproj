@@ -642,9 +642,6 @@
     <Content Include="Scripts\slides.min.jquery.js" />
     <Content Include="Scripts\jquery.validator.ex.js" />
     <Content Include="Scripts\waypoints.js" />
-    <Content Include="Views\Member\CQ.cshtml">
-      <SubType>Code</SubType>
-    </Content>
     <Content Include="Web加密版.config">
       <SubType>Designer</SubType>
     </Content>
@@ -704,61 +701,13 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
-    <Content Include="Views\RefGroup\I.cshtml" />
-    <Content Include="Views\RefGroup\Sort.cshtml" />
-    <Content Include="Views\RefGroup\Move.cshtml" />
-    <Content Include="Views\RefGroup\Add.cshtml" />
-    <Content Include="Views\RefGroup\Edit.cshtml" />
-    <Content Include="Views\Reference\Add.cshtml" />
-    <Content Include="Views\Reference\Edit.cshtml" />
-    <Content Include="Views\Reference\I.cshtml" />
-    <Content Include="Views\Reference\Sort.cshtml" />
-    <Content Include="Views\Resource\Add.cshtml" />
-    <Content Include="Views\Resource\Edit.cshtml" />
-    <Content Include="Views\Resource\I.cshtml" />
-    <Content Include="Views\Resource\Move.cshtml" />
-    <Content Include="Views\Resource\Sort.cshtml" />
-    <Content Include="Views\RefGroup\GetP.cshtml" />
-    <Content Include="Views\Resource\GetP.cshtml" />
-    <Content Include="Views\Operation\Add.cshtml" />
-    <Content Include="Views\Operation\Edit.cshtml" />
-    <Content Include="Views\Operation\I.cshtml" />
-    <Content Include="Views\Operation\Sort.cshtml" />
-    <Content Include="Views\Privilege\Add.cshtml" />
-    <Content Include="Views\Privilege\Edit.cshtml" />
-    <Content Include="Views\Privilege\I.cshtml" />
-    <Content Include="Views\Role\Add.cshtml" />
-    <Content Include="Views\Role\Edit.cshtml" />
-    <Content Include="Views\Role\I.cshtml" />
-    <Content Include="Views\Role\Sort.cshtml" />
-    <Content Include="Views\Role\Manage.cshtml" />
     <Content Include="Views\Shared\_TestLayout.cshtml" />
-    <Content Include="Views\NavigationLink\Add.cshtml" />
-    <Content Include="Views\NavigationLink\Edit.cshtml" />
-    <Content Include="Views\NavigationLink\GetP.cshtml" />
-    <Content Include="Views\NavigationLink\I.cshtml" />
-    <Content Include="Views\NavigationLink\Move.cshtml" />
-    <Content Include="Views\NavigationLink\Sort.cshtml" />
     <Content Include="Views\Shared\_UCLayout.cshtml" />
-    <Content Include="Views\Member\Info.cshtml" />
-    <Content Include="Views\Member\I.cshtml" />
-    <Content Include="Views\Member\CPW.cshtml" />
-    <Content Include="Views\Member\CMB.cshtml" />
     <Content Include="Views\Shared\_Lamp.cshtml" />
-    <Content Include="Views\Member\Recharge.cshtml" />
-    <Content Include="Views\BMNew\Add.cshtml" />
-    <Content Include="Views\BMNew\Edit.cshtml" />
     <Content Include="Views\N\A.cshtml" />
-    <Content Include="Views\BMNew\Sort.cshtml" />
-    <Content Include="Views\BMNew\I.cshtml" />
     <Content Include="Views\N\S.cshtml" />
     <Content Include="Views\Shared\_HtmlEditor.cshtml" />
-    <Content Include="Views\Member\Take.cshtml" />
-    <Content Include="Views\Member\MaBiSettle.cshtml" />
-    <Content Include="Views\QA\Q.cshtml" />
     <Content Include="Views\H\WXShareLink.cshtml" />
-    <Content Include="Views\MM\I.cshtml" />
-    <Content Include="Views\MM\CL.cshtml" />
     <Content Include="Views\SYSConfig\I.cshtml" />
     <Content Include="Views\SYSConfig\OnlineQAUser.cshtml" />
     <Content Include="Views\SYSConfig\UserQACache.cshtml" />
