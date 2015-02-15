@@ -94,7 +94,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ControllersWeiXin\QAController.cs" />
-    <Compile Include="ControllersWeiXin\WXZYBController.cs" />
+    <Compile Include="ControllersWeiXin\WXNetBungController.cs" />
     <Compile Include="Filter\ExceptionFilter.cs" />
     <Compile Include="Filter\PrivilegeAttribute.cs" />
     <Compile Include="ModelBinder\SmartModelBinder.cs" />

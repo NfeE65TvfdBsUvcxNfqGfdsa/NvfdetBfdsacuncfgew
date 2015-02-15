@@ -18,9 +18,9 @@ using Senparc.Weixin.MP.Entities.Request;
 
 namespace MorSun.Controllers
 {
-    public class WXZYBController : Controller
+    public class WXNetBungController : Controller
     {
-        public WXZYBController() { }
+        public WXNetBungController() { }
 
         /// <summary>
         /// 微信后台验证地址（使用Get），微信后台的“接口配置信息”的Url填写如：http://weixin.senparc.com/weixin
