@@ -8,7 +8,7 @@ using Senparc.Weixin.MP.Entities;
 using Senparc.Weixin.MP.Helpers;
 using Senparc.Weixin.MP.MessageHandlers;
 
-namespace MorSun.WX.ZYB.Service.CustomMessageHandler
+namespace MorSun.WX.NetBung.Service.CustomMessageHandler
 {
     /// <summary>
     /// 自定义MessageHandler

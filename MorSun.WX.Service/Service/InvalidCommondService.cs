@@ -10,7 +10,7 @@ using MorSun.Common.类别;
 using MorSun.Common.配置;
 using HOHO18.Common.SSO;
 
-namespace MorSun.WX.ZYB.Service
+namespace MorSun.WX.NetBung.Service
 {
     public class InvalidCommondService
     {

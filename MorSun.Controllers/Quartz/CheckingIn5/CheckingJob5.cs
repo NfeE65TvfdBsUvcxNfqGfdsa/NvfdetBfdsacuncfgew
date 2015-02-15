@@ -4,7 +4,7 @@ using MorSun.Common.类别;
 using MorSun.Common.配置;
 using MorSun.Controllers.ViewModel;
 using MorSun.Model;
-using MorSun.WX.ZYB.Service;
+using MorSun.WX.NetBung.Service;
 using Quartz;
 using System;
 using System.Linq;

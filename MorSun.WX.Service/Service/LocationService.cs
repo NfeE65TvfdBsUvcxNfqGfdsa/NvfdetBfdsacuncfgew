@@ -4,7 +4,7 @@ using Senparc.Weixin.MP.Entities.GoogleMap;
 using Senparc.Weixin.MP.Entities.BaiduMap;
 using Senparc.Weixin.MP.Helpers;
 
-namespace MorSun.WX.ZYB.Service
+namespace MorSun.WX.NetBung.Service
 {
     public class LocationService
     {

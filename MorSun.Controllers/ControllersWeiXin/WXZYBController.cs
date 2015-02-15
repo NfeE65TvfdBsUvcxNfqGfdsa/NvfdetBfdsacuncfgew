@@ -10,7 +10,7 @@ using MorSun.Common.类别;
 using MorSun.Common.配置;
 using Senparc.Weixin.MP.MvcExtension;
 using Senparc.Weixin.MP;
-using MorSun.WX.ZYB.Service.CustomMessageHandler;
+using MorSun.WX.NetBung.Service.CustomMessageHandler;
 using System.IO;
 using Senparc.Weixin.MP.Entities.Request;
 

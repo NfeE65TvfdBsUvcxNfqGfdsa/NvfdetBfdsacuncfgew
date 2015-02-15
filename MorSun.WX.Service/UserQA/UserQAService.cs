@@ -11,7 +11,7 @@ using Senparc.Weixin.MP.Entities;
 using MorSun.Common.类别;
 using HOHO18.Common.WEB;
 
-namespace MorSun.WX.ZYB.Service
+namespace MorSun.WX.NetBung.Service
 {
     /// <summary>
     /// 缓存类，缓存在线答题用户的题目(每个用户一个缓存)。用户回答问题时， 系统知道他回答的是哪个问题，以及缓存用户待答题和已答题数据。

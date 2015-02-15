@@ -11,7 +11,7 @@ using MorSun.Common.配置;
 using HOHO18.Common.SSO;
 using HOHO18.Common;
 
-namespace MorSun.WX.ZYB.Service
+namespace MorSun.WX.NetBung.Service
 {
     public class BoundService
     {

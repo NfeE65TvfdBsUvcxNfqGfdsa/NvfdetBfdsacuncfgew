@@ -9,7 +9,7 @@ using MorSun.Common.类别;
 using MorSun.Common.常量集;
 using MorSun.Common.配置;
 
-namespace MorSun.WX.ZYB.Service
+namespace MorSun.WX.NetBung.Service
 {
     /// <summary>
     /// 获取答题应该分配的用户

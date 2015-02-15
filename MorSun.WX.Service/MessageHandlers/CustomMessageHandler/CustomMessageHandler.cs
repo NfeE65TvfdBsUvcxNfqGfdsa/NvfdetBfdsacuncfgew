@@ -13,7 +13,7 @@ using HOHO18.Common.WEB;
 using Senparc.Weixin.MP.Entities.Request;
 
 
-namespace MorSun.WX.ZYB.Service.CustomMessageHandler
+namespace MorSun.WX.NetBung.Service.CustomMessageHandler
 {
     /// <summary>
     /// 自定义MessageHandler

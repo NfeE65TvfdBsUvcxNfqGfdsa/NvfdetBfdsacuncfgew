@@ -12,7 +12,7 @@ using MorSun.Common.常量集;
 using HOHO18.Common;
 using HOHO18.Common.WEB;
 
-namespace MorSun.WX.ZYB.Service
+namespace MorSun.WX.NetBung.Service
 {
     public class AnswerService
     {

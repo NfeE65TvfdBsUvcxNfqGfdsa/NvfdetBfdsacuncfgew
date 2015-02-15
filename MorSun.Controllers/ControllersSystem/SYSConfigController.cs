@@ -9,7 +9,7 @@ using System.Collections;
 using System.Web.Mvc;
 using MorSun.Controllers.ViewModel;
 using MorSun.Common.Privelege;
-using MorSun.WX.ZYB.Service;
+using MorSun.WX.NetBung.Service;
 using MorSun.Common.常量集;
 using MorSun.Common.类别;
 using MorSun.Common.配置;
