@@ -11,11 +11,6 @@
         }
         <a href="javascript:AddFavorite('@("ServiceDomain".GHU())','@("ServiceName".GX())')" onclick="AddFavorite('@("ServiceDomain".GHU())', '@("ServiceName".GX())')"> 收藏</a>
     </text>
-} else {
-        if ("Register".GX() == "true")
-        {    
-        @Html.ActionLink("注册", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })
-        }
-        @Html.ActionLink("登录", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })
-    <a href="javascript:AddFavorite('@("ServiceDomain".GHU())','@("ServiceName".GX())')" onclick="AddFavorite('@("ServiceDomain".GHU())', '@("ServiceName".GX())')"> 收藏</a>
+} else {        
+        @Html.ActionLink("登录", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })    
 }
