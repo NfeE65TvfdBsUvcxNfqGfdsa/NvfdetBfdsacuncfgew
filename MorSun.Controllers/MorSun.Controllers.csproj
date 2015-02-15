@@ -96,8 +96,6 @@
     <Compile Include="ControllersUserCenter\HController.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Quartz\CheckingIn5\CheckingJobNetBung5.cs" />
-    <Compile Include="Quartz\CheckingIn5\CheckingTriggerNetBung5.cs" />
     <Compile Include="Quartz\CheckingIn4\CheckingJobNetBung4.cs" />
     <Compile Include="Quartz\CheckingIn4\CheckingTriggerNetBung4.cs" />
     <Compile Include="Quartz\MorSunScheduler.cs" />
@@ -146,9 +144,7 @@
       <Name>MorSun.WX.NetBung.Service</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="AttendanceController\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
