@@ -252,10 +252,11 @@ namespace MorSun.Common
             //当前微信应用
             //网站域名  不是通过域名访问网站的情况，不能
             public const string 网站域名 = "http://www.bungma.com";
-            public const string 邦马网_当前微信应用 = "b61f5cee-676e-4716-9afa-4cdb44080239";
-            public const string 邦马网_微信令牌 = "WXZYBung34fdjs38";
-            public const string 邦马网_加密KEY = "dZuSlbu2fMkS8mBNhNH2LXR9UZu4ng8Rg2JgqSC9lbJ";
-            public const string 邦马网_应用ID = "wxa71a8636a745274b";
+            public const string 邦马网_当前微信应用 = "26baaceb-b54d-47f0-accd-55ba88a92997";
+            public const string 邦马网_微信令牌 = "NetBungxjfdsa3248v9fn3FJivIE23";
+            public const string 邦马网_加密KEY = "AHaKDiONZXEa3Q6fVcTZ316RfdfY1sSsGzpFfli9W56";
+            public const string 邦马网_应用ID = "wx39ed1be0d3be0549";
+            //以下不要， 都到邦马网去使用
             public const string 邦马网_应用密钥 = "217a0e2bcc11c04f05b767c8eebd296a";
             public const string 邦马网_AT缓存键 = "ZYBAT";
             public const string 邦马网_获取AT网址 = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=APPID&secret=APPSECRET";
