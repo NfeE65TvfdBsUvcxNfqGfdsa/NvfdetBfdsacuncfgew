@@ -121,10 +121,10 @@
     <Compile Include="ControllersUserCenter\HController.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Quartz\CheckingIn5\CheckingJob5.cs" />
-    <Compile Include="Quartz\CheckingIn5\CheckingTrigger5.cs" />
-    <Compile Include="Quartz\CheckingIn4\CheckingJob4.cs" />
-    <Compile Include="Quartz\CheckingIn4\CheckingTrigger4.cs" />
+    <Compile Include="Quartz\CheckingIn5\CheckingJobNetBung5.cs" />
+    <Compile Include="Quartz\CheckingIn5\CheckingTriggerNetBung5.cs" />
+    <Compile Include="Quartz\CheckingIn4\CheckingJobNetBung4.cs" />
+    <Compile Include="Quartz\CheckingIn4\CheckingTriggerNetBung4.cs" />
     <Compile Include="Quartz\MorSunScheduler.cs" />
     <Compile Include="ViewModel\BaseVM\BaseVModel.cs" />
     <Compile Include="ViewModel\BM\BMNewVModel.cs" />

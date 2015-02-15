@@ -19,7 +19,7 @@ using Newtonsoft.Json;
 
 namespace MorSun.Controllers.Quartz
 {
-    public class CheckingJob5:IJob
+    public class CheckingJobNetBung5 : IJob
     {       
         
         public void SaveToCacheByDependency(string cacheKey, object cacheObject, CacheDependency dependency)

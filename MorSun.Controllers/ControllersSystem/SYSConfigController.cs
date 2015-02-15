@@ -175,7 +175,7 @@ namespace MorSun.Controllers.SystemController
             //t2.Run();
             //SimpleTriggerExample t3 = new SimpleTriggerExample();
             //t3.Run();
-            CheckingTrigger4 t4 = new CheckingTrigger4();
+            CheckingTriggerNetBung4 t4 = new CheckingTriggerNetBung4();
             t4.Run();
             //CheckingTrigger5 t5 = new CheckingTrigger5();
             //t5.Run();

@@ -17,7 +17,7 @@ using System.Web;
 
 namespace MorSun.Controllers.Quartz
 {
-    public class CheckingJob4:IJob
+    public class CheckingJobNetBung4:IJob
     {
         public static OnlineQAUserCache GenerateQAUserCache()
         {

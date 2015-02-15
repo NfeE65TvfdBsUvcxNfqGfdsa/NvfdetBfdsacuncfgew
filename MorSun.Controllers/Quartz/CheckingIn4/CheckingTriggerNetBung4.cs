@@ -6,12 +6,12 @@ using System.Text;
 
 namespace MorSun.Controllers.Quartz
 {
-    public class CheckingTrigger4
+    public class CheckingTriggerNetBung4
     {
         public virtual void Run()
-        {            
+        {
 
-            IJobDetail job = JobBuilder.Create<CheckingJob4>()
+            IJobDetail job = JobBuilder.Create<CheckingJobNetBung4>()
                 .WithIdentity("jobnetb44", "groupnetb44")//.RequestRecovery(true)//服务重启之后不用再执行任务 应用重启之后时候忽略过期任务，默认false
                 .Build();
 
