@@ -17,16 +17,9 @@ namespace MorSun.WX.NetBung.Service.CustomMessageHandler
     {
         private string GetWelcomeInfo()
         {
-            var returnStr = @"欢迎关注【作业邦】
-从此问题不会难
-遇到问题拍一拍
-老师学霸帮您忙
-节省无尽脑细胞
-乐享生活快成长
-自从有了【作业邦】
-咔嚓咔嚓无限爽
-更多内容
-请上 http://www.bungma.com 了解";
+            var returnStr = @"欢迎关注【netbung】
+您可直接提交 .Net开发中遇到的各种问题疑难
+";
             return returnStr;
         }
 

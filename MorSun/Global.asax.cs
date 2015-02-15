@@ -60,7 +60,7 @@ namespace MorSun
             LogHelper.Write("应用关闭", LogHelper.LogMessageType.Info);
             //解决应用池回收问题 
             System.Threading.Thread.Sleep(5000);
-            string strUrl = "http://www.bungma.com";//"GBServiceDomain".GX(); //"http://" + 
+            string strUrl = "http://net.bungma.com";//"GBServiceDomain".GX(); //"http://" + 
             LogHelper.Write("应用关闭前访问" + strUrl, LogHelper.LogMessageType.Info);
             System.Net.HttpWebRequest _HttpWebRequest = (System.Net.HttpWebRequest)System.Net.WebRequest.Create(strUrl);
             System.Net.HttpWebResponse _HttpWebResponse = (System.Net.HttpWebResponse)_HttpWebRequest.GetResponse();
