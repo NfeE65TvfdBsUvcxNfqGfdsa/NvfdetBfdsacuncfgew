@@ -90,6 +90,11 @@ namespace MorSun.Model
         public bool RememberMe { get; set; }
 
         public string ReturnUrl { get; set; }
+
+        public bool IsBoundZYB { get; set; }
+
+        [DisplayName("微信发送绑定代码")]
+        public string BoundCode { get; set; }
     }
 
     [PropertiesMustMatch("Password", "ConfirmPassword", ErrorMessage = "密码和确认密码不匹配")]

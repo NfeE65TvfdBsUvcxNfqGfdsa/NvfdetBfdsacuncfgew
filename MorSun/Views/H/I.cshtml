@@ -1,4 +1,4 @@
-﻿@model IndexModel
+﻿@model UInfo
 @{
     ViewBag.Title = "ServiceName".GX();    
 }
@@ -11,7 +11,7 @@
                     <div><span class="weixinText">老师学霸跟着走</span></div>
                 </div>
                 <div class="content-login">
-                    @Html.Partial("_TableLogon",new LoginModel())
+                    @Html.Partial("_TableLogon", new LoginModel() { IsBoundZYB = Model.IsBoundZYB, BoundCode = Model.BoundCode})
                 </div>
                 <div style="display:none" id="DIVSL"></div>
             </div>
