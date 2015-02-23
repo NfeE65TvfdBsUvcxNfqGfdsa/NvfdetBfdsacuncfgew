@@ -50,19 +50,41 @@ namespace MorSun.WX.NetBung.Service
         /// <returns></returns>
         public IResponseMessageBase WXLgionResponseMessage(RequestMessageText requestMessage)
         {
-            var id = Guid.NewGuid();
+            var commonService = new CommonService();
+            //处理并发而生成的操作唯一ID
+            var rqid = Guid.NewGuid();
+            new AnswerService().RQStart(requestMessage, rqid, commonService);
+
+            var msgid = requestMessage.MsgId == null ? "" : requestMessage.MsgId.ToString();
+
+            var id = Guid.Empty;
             var result = "";
-            var dts = DateTime.Now.ToString();
-            var tok = SecurityHelper.Encrypt(dts + ";" + CFG.邦马网_对接统一码);
-            string strUrl = CFG.网站域名 + CFG.邦马网_微信登录设置路径;
-            string appendUrl = "?tok=" + HttpUtility.UrlEncode(tok);
+            if (commonService.GetMsgIdCache(msgid) == rqid)
+            {
+                id = Guid.NewGuid();                
+                var dts = DateTime.Now.ToString();
+                var tok = SecurityHelper.Encrypt(dts + ";" + CFG.邦马网_对接统一码);
+                string strUrl = CFG.网站域名 + CFG.邦马网_微信登录设置路径;
+                string appendUrl = "?tok=" + HttpUtility.UrlEncode(tok);
 
-            appendUrl += "&id=" + id.ToString();
-            appendUrl += "&weixinId=" + requestMessage.FromUserName;
-            
-            result = GetHtmlHelper.GetPage(strUrl + appendUrl, "");
+                var sid = id.ToString();
+                appendUrl += "&id=" + HttpUtility.UrlEncode(SecurityHelper.Encrypt(sid));
+                appendUrl += "&weixinId=" + HttpUtility.UrlEncode(SecurityHelper.Encrypt(requestMessage.FromUserName));
+                //LogHelper.Write(appendUrl, LogHelper.LogMessageType.Info);
+                result = GetHtmlHelper.GetPage(strUrl + appendUrl, "");
+            }
+            else
+            {
+                int i = 0;
+                LogHelper.Write("非主线程等待", LogHelper.LogMessageType.Debug);
+                do
+                {
+                    System.Threading.Thread.Sleep(500);//其他访问等1秒
+                    i++;                    
+                } while ((id != Guid.Empty && !String.IsNullOrEmpty(result)) || i > 6);      
+            }
 
-            if(String.IsNullOrEmpty(result))
+            if (String.IsNullOrEmpty(result))
             {
                 return new InvalidCommondService().GetInvalidCommondResponseMessage(requestMessage);
             }
@@ -74,6 +96,7 @@ namespace MorSun.WX.NetBung.Service
             {
                 return new InvalidCommondService().GetInvalidCommondResponseMessage(requestMessage);
             }
+            
         }
         #endregion
 
