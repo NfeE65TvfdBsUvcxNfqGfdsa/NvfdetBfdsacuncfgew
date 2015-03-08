@@ -1,6 +1,7 @@
 ﻿@model UInfo
 @{
-    ViewBag.Title = "ServiceName".GX();    
+    ViewBag.Title = "ServiceName".GX();
+    string rs = ViewBag.RS;     
 }
 @section featured {    
     <section class="featured">
@@ -9,6 +10,10 @@
                     <img class="weixinImg" title="作业邦" src="~/Images/zyb/zyb258.jpg" />
                     <div><span class="weixinText">微信扫一扫</span></div>
                     <div><span class="weixinText">老师学霸跟着走</span></div>
+                    @if (rs.HP(操作.回收站))
+                    {
+                        <a href="/sysconfig/dsdq">定时器</a>
+                    }
                 </div>
                 <div class="content-login">
                     @Html.Partial("_TableLogon", new LoginModel() { IsBoundZYB = Model.IsBoundZYB, BoundCode = Model.BoundCode})
