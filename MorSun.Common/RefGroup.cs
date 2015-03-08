@@ -269,7 +269,8 @@ namespace MorSun.Common
 
 
             //提问默认消费马币值
-            public const string 提问默认收费马币值 = "500";
+            public const string 提问默认收费马币值 = "1000";
+            public const string 追问默认收费马币值 = "500";
             //提交异议要扣取的压金值
             public const string 提交异议扣取压金值 = "500";
 

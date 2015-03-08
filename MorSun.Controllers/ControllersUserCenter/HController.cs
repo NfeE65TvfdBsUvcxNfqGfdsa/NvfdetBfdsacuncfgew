@@ -12,6 +12,7 @@ using HOHO18.Common.SSO;
 using HOHO18.Common.WEB;
 using HOHO18.Common;
 using System.Web.Security;
+using MorSun.Common.Privelege;
 
 
 namespace MorSun.Controllers
@@ -37,6 +38,7 @@ namespace MorSun.Controllers
             {
                 UInfo.IsBoundZYB = true;
             }
+            ViewBag.RS = 资源.系统参数配置;
             return View(UInfo);
         }
 
