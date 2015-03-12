@@ -57,13 +57,11 @@
     else
     {var user=MorSun.Controllers.BasisController.CurrentAspNetUser;
     var umb = MorSun.Controllers.BasisController.CurrentUserMabi;        
-            <p class="logonP">欢迎您：@(user.wmfUserInfo == null ? user.UserName:user.wmfUserInfo.NickName) </p>
+            <p class="logonP">欢迎您：@(user.wmfUserInfo == null ? user.UserName:user.wmfUserInfo.NickName) </p>            
             
-            <p class="logonP">马币:<span class="logonSpanRed">@umb.NMB.ToString("f2")</span>   <span class="logonSpanReight"><a href="@("ServiceDomain".GHU() + "TipsMB".GX())">@Html.Partial("_Lamp")</a></span></p>
-            <p class="logonP">邦币:<span class="logonSpanGreenMabi">@umb.NBB.ToString("f2")</span>    <span class="logonSpanReight"><a href="@("ServiceDomain".GHU() + "TipsBB".GX())">@Html.Partial("_Lamp")</a></span></p>
-            <p class="logonP">绑币:<span class="logonSpanYellow">@umb.NBANB.ToString("f2")</span>    <span class="logonSpanReight"><a href="@("ServiceDomain".GHU() + "TipsBDB".GX())">@Html.Partial("_Lamp")</a></span></p>
-            if (!Model.IsBoundZYB)
-            {    
+        if (!Model.IsBoundZYB)
+        {
+            <p class="logonP"><span class="logonSpanRed">您还未绑定邦马网</span></p>
                 <p class="logonP">微信发送绑定代码: <span class="logonSpanRed">@Model.BoundCode</span></p>     
                 <p class="logonP">(请在两分钟内完成绑定)</p>
             }       
